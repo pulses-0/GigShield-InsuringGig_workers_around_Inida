@@ -1,5 +1,7 @@
 # 9. AI Risk & Premium Engine
 
+← [Previous](08_Trigger_Design.md) | [Next](10_Coverage_Model.md)
+
 The AI Risk & Premium Engine is responsible for estimating the likelihood of disruptions affecting a delivery partner and calculating a fair weekly insurance premium.
 
 This component ensures that pricing is:
