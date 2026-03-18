@@ -1,5 +1,7 @@
 # 15. Non-Functional Requirements
 
+← [Previous](14_External_Integrations.md) | [Next](16_Limitations.md)
+
 Non-functional requirements define the quality attributes of the GigShield system.
 
 ---
