@@ -1,6 +1,6 @@
 # 2. Problem Statement
 
-← [Previous](01_Introduction.md) | [Next](02_Personas.md)
+← [Previous](01_Introduction.md) | [Next](03_Personas.md)
 
 Q-Commerce delivery partners operate in a highly time-sensitive and performance-driven environment.
 
