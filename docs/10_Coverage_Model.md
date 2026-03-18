@@ -1,5 +1,7 @@
 # 10. Insurance Coverage Model
 
+← [Previous](09_Risk_Engine.md) | [Next](11_Fraud_Detection.md)
+
 The Insurance Coverage Model defines how GigShield calculates compensation for delivery partners when a valid disruption event occurs.
 
 The model is designed to provide partial income protection that is predictable, proportional, and financially sustainable.
