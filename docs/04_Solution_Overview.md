@@ -1,5 +1,7 @@
 # 4. Solution Overview
 
+← [Previous](03_Personas.md) | [Next](05_Parametric_Model.md)
+
 GigShield is a parametric insurance platform that provides automated income protection for Q-Commerce delivery partners.
 
 Instead of relying on manual claim filing, the system automatically detects disruption events using real-world data and triggers payouts based on predefined conditions.
