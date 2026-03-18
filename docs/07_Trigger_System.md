@@ -1,5 +1,7 @@
 # 7. Disruption Trigger System
 
+← [Previous](06_System_Workflow.md) | [Next](08_Trigger_Design.md)
+
 The Disruption Trigger System is the core component responsible for detecting real-world conditions that impact delivery operations.
 
 It continuously monitors external data sources and identifies events that can reduce or halt a delivery partner’s ability to earn.
