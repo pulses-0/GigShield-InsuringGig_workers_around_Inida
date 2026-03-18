@@ -1,5 +1,7 @@
 # 17. Innovations
 
+← [Previous](16_Limitations.md) | [Next](18_Glossary.md)
+
 GigShield introduces several innovative concepts tailored for gig workers.
 
 ---
