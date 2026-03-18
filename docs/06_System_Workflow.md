@@ -1,5 +1,7 @@
 # 6. System Workflow
 
+← [Previous](05_Parametric_Model.md) | [Next](07_Trigger_System.md)
+
 GigShield operates as a fully automated, event-driven system that continuously monitors real-world conditions and responds in real time.
 
 Instead of relying on user actions, the platform works as a **background protection layer** for delivery partners.
