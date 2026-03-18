@@ -212,7 +212,7 @@ GigShield uses real-world data to detect disruptions:
 
 ## System Architecture
 
-![Architecture](README_assets/architecture.png)
+![Architecture](diagram/architecture.jpeg)
 
 The system is built as a modular architecture with:
 
