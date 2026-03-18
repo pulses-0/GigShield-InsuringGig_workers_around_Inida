@@ -1,5 +1,7 @@
 # 13. Technology Stack
 
+← [Previous](12_System_Architecture.md) | [Next](14_External_Integrations.md)
+
 The GigShield platform uses a modern, scalable technology stack optimized for real-time processing, data-driven decision making, and rapid development.
 
 ---
