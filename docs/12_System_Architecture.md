@@ -1,6 +1,6 @@
 # 12. System Architecture
 
-← [Previous](11_fraud_detection.md) | [Next](13_tech_stack.md)
+← [Previous](11_Fraud_Detection.md) | [Next](13_Tech_Stack.md)
 
 The GigShield platform is designed as a modular, cloud-based system that integrates real-time data ingestion, event-driven processing, AI-based decision making, and automated payout execution.
 
