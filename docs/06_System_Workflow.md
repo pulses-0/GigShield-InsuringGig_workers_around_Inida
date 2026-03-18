@@ -91,15 +91,15 @@ Once a policy is active, GigShield runs continuously in the background.
 
 The system monitors multiple external data sources in real time:
 
-# weather data (temperature, rainfall)
+ weather data (temperature, rainfall)
 
-# air quality (AQI levels)
+ air quality (AQI levels)
 
-# traffic conditions
+ traffic conditions
 
-# public alerts (curfews, strikes)
+ public alerts (curfews, strikes)
 
-# Data Processing
+ Data Processing
 
 Incoming data is:
 
