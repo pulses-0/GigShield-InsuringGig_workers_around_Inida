@@ -1,5 +1,7 @@
 # 16. Limitations
 
+← [Previous](15_Non_Functional_Requirements.md) | [Next](17_Innovations.md)
+
 This section outlines the current limitations of the GigShield platform.
 
 ---
