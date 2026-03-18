@@ -1,7 +1,5 @@
 # 7. Disruption Trigger System
 
-← [Previous](06_system_workflow.md) | [Next](08_trigger_design.md)
-
 The Disruption Trigger System is the core component responsible for detecting real-world conditions that impact delivery operations.
 
 It continuously monitors external data sources and identifies events that can reduce or halt a delivery partner’s ability to earn.
@@ -52,7 +50,7 @@ Flooding
 Condition: official flood alert
 Impact: complete halt of operations
 
-🌫 2. Environmental Triggers
+### 2. Environmental Triggers
 
 These capture atmospheric conditions that affect outdoor work.
 
@@ -62,7 +60,7 @@ Severe Air Pollution
 Condition: AQI ≥ 400
 Impact: unsafe working conditions, reduced activity
 
-🚧 3. Urban / Infrastructure Triggers
+### 3. Urban / Infrastructure Triggers
 
 These represent disruptions in city mobility.
 
@@ -76,7 +74,7 @@ Road Closures
 Condition: verified closure events
 Impact: route disruption
 
-🧑‍🤝‍🧑 4. Socio-Economic Triggers
+### 4. Socio-Economic Triggers
 
 These capture disruptions caused by social or economic factors.
 
@@ -94,7 +92,7 @@ Platform Outages
 Condition: service downtime
 Impact: no order allocation
 
-🧠 Trigger Evaluation Logic
+## Trigger Evaluation Logic
 
 Each trigger is defined using a clear, measurable condition.
 
@@ -102,7 +100,8 @@ Example
 IF rainfall ≥ 65 mm/hour
 AND delivery_zone = affected_zone
 THEN create Disruption Event
-🌐 Data Sources
+
+## Data Sources
 
 The Trigger System integrates with external APIs such as:
 
@@ -114,7 +113,7 @@ traffic data services
 
 public alert systems
 
-📍 Zone-Based Mapping
+## Zone-Based Mapping
 
 All data is processed at a delivery zone level:
 
@@ -124,7 +123,7 @@ linked to dark stores
 
 ensures relevance for each worker
 
-⚡ Event Generation
+## Event Generation
 
 When a trigger condition is satisfied:
 
@@ -142,7 +141,7 @@ source data reference
 
 This event is then sent to the Claims Engine.
 
-⏱ Performance
+## Performance
 
 data polling interval: ≤ 15 minutes
 
@@ -150,7 +149,7 @@ event detection latency: < 60 seconds
 
 near real-time system response
 
-🛡 Reliability & Fallback
+## Reliability & Fallback
 
 To ensure consistency:
 
@@ -162,7 +161,7 @@ automatic fallback mechanisms
 
 error logging for monitoring
 
-⚡ Key Characteristics
+## Key Characteristics
 
 Real-Time Detection
 Immediate identification of disruptions
@@ -176,7 +175,7 @@ No manual intervention
 Scalable Design
 Supports multiple cities and zones
 
-🧠 Why This Matters
+## Why This Matters
 
 The Trigger System is the foundation of GigShield.
 
@@ -188,6 +187,7 @@ payouts cannot be triggered
 
 system reliability breaks
 
+```text
 By ensuring precise and real-time detection, GigShield enables:
 
 fair compensation
@@ -195,4 +195,3 @@ fair compensation
 fast response
 
 scalable insurance operations
-
