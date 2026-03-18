@@ -1,6 +1,6 @@
 # 11. Fraud Detection System
 
-← [Previous](10_coverage_model.md) | [Next](12_system_architecture.md)
+← [Previous](10_Coverage_Model.md) | [Next](12_System_Architecture.md)
 
 The Fraud Detection System ensures the integrity, fairness, and financial sustainability of the GigShield platform by identifying and preventing invalid or manipulated claims.
 
