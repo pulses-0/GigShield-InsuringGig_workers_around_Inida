@@ -1,5 +1,7 @@
 # 1. Introduction
 
+[Next](02_Problem_Statement.md)->
+
 GigShield is an AI-powered parametric insurance platform designed to provide income protection for Q-Commerce delivery partners.
 
 Quick Commerce (Q-Commerce) platforms such as Blinkit and Zepto operate on ultra-fast delivery models where workers complete deliveries within 10–30 minutes. These workers depend heavily on continuous availability to maintain their income.
