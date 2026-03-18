@@ -26,7 +26,7 @@ Each layer operates independently while communicating through well-defined inter
 
 ## 12.2 High-Level Architecture Diagram
 
-![Architecture](../diagrams/architecture.png)
+![Architecture](../diagram/architecture.jpeg)
 
 ---
 
