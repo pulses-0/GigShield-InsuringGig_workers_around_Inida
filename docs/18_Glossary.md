@@ -1,5 +1,7 @@
 # 18. Glossary
 
+← [Previous](17_Innovations.md)
+
 This section defines key terms used in the system.
 
 ---
