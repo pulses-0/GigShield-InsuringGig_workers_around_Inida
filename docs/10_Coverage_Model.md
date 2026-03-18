@@ -43,10 +43,10 @@ The system estimates user income using:
 
 From this, an estimated hourly income is derived:
 
-```text
 Estimated Hourly Income =
 Estimated Weekly Income / Total Active Hours
-10.4 Payout Calculation
+
+## 10.4 Payout Calculation
 
 Payouts are calculated using the following formula:
 
@@ -59,7 +59,7 @@ Disruption Duration is measured in hours
 
 Coverage Percentage depends on the selected plan
 
-10.5 Example
+## 10.5 Example
 
 A delivery partner:
 
@@ -72,7 +72,8 @@ has selected Standard coverage (60%)
 Calculation:
 
 Payout = 200 × 2 × 0.6 = ₹240
-10.6 Trigger Duration Requirement
+
+## 10.6 Trigger Duration Requirement
 
 To ensure meaningful payouts:
 
@@ -82,7 +83,7 @@ short-lived spikes do not trigger payouts
 
 This prevents unnecessary micro-payouts.
 
-10.7 Weekly Claim Limits
+##10.7 Weekly Claim Limits
 
 To maintain system sustainability:
 
@@ -92,7 +93,7 @@ example: maximum 2–3 claims per coverage period
 
 This avoids excessive claims and misuse.
 
-10.8 Maximum Payout Cap
+## 10.8 Maximum Payout Cap
 
 A cap is applied to total weekly payouts:
 
@@ -100,7 +101,7 @@ payout cannot exceed a percentage of weekly income
 
 ensures financial stability of the system
 
-10.9 Multi-Event Handling
+## 10.9 Multi-Event Handling
 
 If multiple disruption events occur in overlapping time windows:
 
@@ -112,13 +113,14 @@ Example:
 
 IF events overlap
 THEN merge durations
-10.10 Payout Timing
+
+## 10.10 Payout Timing
 
 payout initiation: within 2 minutes of approval
 
 payout completion: near real-time (mock system)
 
-10.11 Edge Case Handling
+## 10.11 Edge Case Handling
 
 The system accounts for:
 
@@ -128,7 +130,7 @@ sudden fluctuations (filtered using duration thresholds)
 
 conflicting data (validated before payout)
 
-10.12 Design Considerations
+## 10.12 Design Considerations
 
 The model is designed to be:
 
@@ -140,7 +142,7 @@ resistant to abuse
 
 scalable across large user bases
 
-10.13 Importance
+## 10.13 Importance
 
 The coverage model directly determines:
 
