@@ -1,5 +1,7 @@
 # 5. Parametric Insurance Model
 
+← [Previous](04_Solutions_Overview.md) | [Next](06_System_Workload.md)
+
 GigShield uses a parametric insurance model where payouts are triggered automatically when predefined conditions are met.
 
 ## What is Parametric Insurance?
