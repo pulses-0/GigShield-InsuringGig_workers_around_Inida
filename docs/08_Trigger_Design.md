@@ -1,5 +1,7 @@
 # 8. Parametric Trigger Design
 
+← [Previous](07_Trigger_System.md) | [Next](09_Risk_Engine.md)
+
 The Parametric Trigger Design defines how real-world data is converted into deterministic, verifiable conditions that initiate insurance events.
 
 This component ensures that all triggers are:
