@@ -1,6 +1,6 @@
 # 14. External Integrations
 
-← [Previous](13_Tech_Stack.md) | [Next](15_Not_Functional_Requirements.md)
+← [Previous](13_Tech_Stack.md) | [Next](15_Non_Functional_Requirements.md)
 
 GigShield relies on external data sources to detect real-world disruptions and trigger automated workflows.
 
