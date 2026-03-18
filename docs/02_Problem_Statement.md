@@ -1,5 +1,7 @@
 # 2. Problem Statement
 
+← [Previous](01_Introduction.md) | [Next](02_Personas.md)
+
 Q-Commerce delivery partners operate in a highly time-sensitive and performance-driven environment.
 
 Their income is directly proportional to the number of deliveries completed. Any disruption in their ability to work results in immediate income loss.
