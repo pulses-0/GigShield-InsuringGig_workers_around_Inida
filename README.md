@@ -337,7 +337,9 @@ Full system design available in `/docs` folder.
 
 ## Team
 
+* Usham Roy
+* Venumadhav s
+* Riddhi Mehrotra
+* N V Jatin Pochiraju 
 * Palash Rai
-* (Add teammates)
-
 ---
