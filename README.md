@@ -337,7 +337,7 @@ Full system design available in `/docs` folder.
 
 ## Team
 
-* Usham Roy
+* Usham Roy - team Lead
 * Venumadhav s
 * Riddhi Mehrotra
 * N V Jatin Pochiraju 
