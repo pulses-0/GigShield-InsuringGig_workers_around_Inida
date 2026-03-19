@@ -3,6 +3,10 @@
 ### AI-Powered Income Protection for Q-Commerce Delivery Partners
 
 ---
+## Demo Video
+
+Watch the demo: https://youtube.com/shorts/sTjgL3uJfXE?feature=share
+
 
 ## The Problem
 
