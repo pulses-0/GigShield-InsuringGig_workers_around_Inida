@@ -15,9 +15,9 @@ This creates a critical vulnerability:
 ### Real-World Situations
 
 * **Chennai (Monsoon Season):** Sudden heavy rainfall floods roads, making deliveries impossible for 2–3 hours
-* **Delhi (Winter):** AQI crosses 400, reducing rider availability and order flow
+* **Delhi (Winter):** AQI crosses 400, Very heavy smog, reducing rider availability and order flow
 * **Bangalore (Peak Hours):** Severe traffic congestion delays deliveries beyond SLA limits
-* **Hyderabad:** Fuel shortages temporarily halt delivery operations
+* **Hyderabad:** Fuel shortages, Railway crossing malfunction, temporarily halt delivery operations
 
 ### Impact
 
@@ -379,8 +379,7 @@ Payout = Hourly Income × Disruption Duration × Coverage %
 
 ```
 docs/        → detailed documentation  
-diagrams/    → architecture + workflows  
-ui/          → frontend mockups  
+diagram/    →  architecture + workflows    
 video/       → demo link  
 ```
 
@@ -388,18 +387,16 @@ video/       → demo link
 
 ## Team
 
-Palash Rai
-(Add teammates)
+* Usham Roy - Team Lead
+* Venumadhav S
+* N V Jatin Pochiraju
+* Riddhi Mehrotra
+* Palash Rai
 
 ---
 
-## Final Note
+```text
 
 GigShield is designed as a real-time financial safety system for gig workers, combining data-driven intelligence with automated insurance execution to protect income in uncertain environments.
 
 ---
-
-If you want, I can next:
-
-* Turn this into a **judge-winning pitch (very high impact)**
-* Or help you prepare **questions judges will ask + perfect answers**
